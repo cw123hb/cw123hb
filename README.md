@@ -1,6 +1,6 @@
 == We're Using GitHub Under Protest ==
 
-This project is currently hosted on GitHub.  This is not ideal; GitHub is a
+Our repos are currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS).  We are deeply concerned about using a proprietary system like GitHub
 to develop our FOSS project.  We have an
