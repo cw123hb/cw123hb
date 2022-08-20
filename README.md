@@ -21,4 +21,4 @@ code in Copilot.
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
 
-We're already moving our core repos over to (Sourcehut)[https://sr.ht/]
+We're already moving our core repos over to [Sourcehut](https://sr.ht/)
